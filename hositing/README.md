@@ -1,4 +1,4 @@
-# What is hositing?
+# What is hoisting?
 
 Hoisting is the concept of how JavaScript calls a function or variable based on where it is being called. 
 
